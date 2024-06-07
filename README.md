@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabredash
 - 👀 I’m passionate about Esports, Web Development and Cybersecurity
-- 🌱 I’m currently learning Python, HTML, CSS and Javascript and some frameworks to do with Web Development!
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript along with some frameworks to do with Web Development!
 
 
 <!---
