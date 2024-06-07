@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fabredash
-- 👀 I’m interested in Esports and Cybersecurity
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on any beginner Python projects! 
+- 👀 I’m passionate about Esports, Web Development and Cybersecurity
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript and some frameworks to do with Web Development!
 
 
 <!---
